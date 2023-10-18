@@ -1,4 +1,4 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+4<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
@@ -18,7 +18,7 @@
 	<description>Maven Standalone Application</description>
 
 	<properties>
-		<sonar.host.url>http://35.154.242.68:9000/</sonar.host.url>
+		<sonar.host.url>http://16.16.24.58:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
